@@ -91,12 +91,3 @@ See also the list of [contributors](https://github.com/wprumors/genesis-framewor
 This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details
 
 ---
-
-## Donations (Optional)
-
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
-
----
