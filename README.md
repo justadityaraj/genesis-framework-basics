@@ -8,7 +8,6 @@ One Paragraph of project description goes here
 
 > If you're `README` has a lot of info, section headers might be nice.
 
-- [Getting Started](#getting started)
 - [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Features](#features)
@@ -17,12 +16,6 @@ One Paragraph of project description goes here
 - [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
-
----
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ---
 
