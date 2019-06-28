@@ -42,6 +42,11 @@ require_once dirname( __FILE__ ) . '/lib/init.php';
 
 //* Custom footer (this is how you can edit functions)
 remove_action( 'genesis_footer', 'genesis_do_footer' );
+add_action( 'genesis_footer', 'sp_custom_footer' );
+function sp_custom_footer() {
+	?>
+	<p>Copyright &copy; 2018 - 2019 &middot; <a href="https://www.wprumors.com/">wpRumors.com</a> &middot; All Rights Reserved.</p>
+	<?php
 }
 
 ```
