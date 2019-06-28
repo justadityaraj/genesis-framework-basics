@@ -27,38 +27,23 @@ One Paragraph of project description goes here
 - All the `code` required to get started
 - Images of what it should look like
 
-```javascript
+```php
 // code away!
+<?php
+/**
+ * @package  Genesis
+ * @author   StudioPress
+ * @license  GPL-2.0-or-later
+ * @link     https://my.studiopress.com/themes/genesis/
+ */
 
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
+require_once dirname( __FILE__ ) . '/lib/init.php';
+
+//* Custom footer
+remove_action( 'genesis_footer', 'genesis_do_footer' );
+}
+
 ```
-
----
-
-### Setup
-
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
-
-```shell
-$ brew update
-$ brew install fvcproductions
-```
-
-> now install npm and bower packages
-
-```shell
-$ npm install
-$ bower install
-```
-
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
 
 ---
 
