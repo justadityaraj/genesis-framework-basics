@@ -8,7 +8,6 @@ One Paragraph of project description goes here
 
 - [Prerequisites](#Prerequisites)
 - [Installation](#installation)
-- [Features](#features)
 - [Contributing](#contributing)
 - [Authors](#authors)
 - [License](#license)
@@ -59,12 +58,12 @@ Please read [CONTRIBUTING.md](txt/Contributing.md) for details on our code of co
 
 ## Authors
 
-* **Aditya Raj** - *Initial work* - [GitHub](https://github.com/justadityaraj)
+* **Aditya Raj** - Initial deployment - [GitHub](https://github.com/justadityaraj)
 
 See also the list of [contributors](https://github.com/wprumors/genesis-framework-basics/graphs/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details.
 
 ---
