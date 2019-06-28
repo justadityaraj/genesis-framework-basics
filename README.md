@@ -6,15 +6,11 @@ One Paragraph of project description goes here
 
 ## Table of Contents
 
-> If you're `README` has a lot of info, section headers might be nice.
-
 - [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
+- [Authors](#authors)
 - [License](#license)
 
 ---
@@ -26,7 +22,10 @@ One Paragraph of project description goes here
 
 ---
 
-## Example (Optional)
+## Installation
+
+- All the `code` required to get started
+- Images of what it should look like
 
 ```javascript
 // code away!
@@ -40,15 +39,6 @@ let generateProject = project => {
 ```
 
 ---
-
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
-
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
 
 ### Setup
 
