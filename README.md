@@ -45,7 +45,7 @@ remove_action( 'genesis_footer', 'genesis_do_footer' );
 add_action( 'genesis_footer', 'sp_custom_footer' );
 function sp_custom_footer() {
 	?>
-	<p>Copyright &copy; 2018 - 2019 &middot; <a href="https://www.wprumors.com/">wpRumors.com</a> &middot; All Rights Reserved.</p>
+	<p>Copyright &copy; 20XX - 2019 &middot; <a href="#">yourwebsite.com</a> &middot; All Rights Reserved.</p>
 	<?php
 }
 
