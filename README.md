@@ -19,6 +19,7 @@ One Paragraph of project description goes here
 
 - Access to root directory of you website. (eg. Cpanel)
 - Access to backend  of your wordpress website.
+- WinSCP recommended. 
 
 ---
 
@@ -28,7 +29,7 @@ One Paragraph of project description goes here
 - Images of what it should look like
 
 ```php
-// code away!
+// This is what your functions.php code should look like!
 <?php
 /**
  * @package  Genesis
@@ -39,7 +40,7 @@ One Paragraph of project description goes here
 
 require_once dirname( __FILE__ ) . '/lib/init.php';
 
-//* Custom footer
+//* Custom footer (this is how you can edit functions)
 remove_action( 'genesis_footer', 'genesis_do_footer' );
 }
 
