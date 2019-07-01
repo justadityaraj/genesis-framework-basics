@@ -1,0 +1,14 @@
+search .site-inner {
+max-width: 100%;
+}
+
+.search .entry {
+margin-bottom: 0;
+padding: 30px;
+padding-bottom: 0;
+}
+
+.search .entry-title {
+font-size: 29px;
+font-size: 2.9rem;
+}
