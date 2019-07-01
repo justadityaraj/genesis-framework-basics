@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/github/training-kit.svg?branch=master)](https://www.wprumors.com/)
-
 # Genesis framework basics
 
 One Paragraph of project description goes here
