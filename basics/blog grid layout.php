@@ -1,5 +1,5 @@
 <?PHP
-//* Grid Style Content Archive 
+//* Grid Style Content Archive - paste in themes functions.php
 
 function be_archive_post_class( $classes ) {
  // Don't run on single posts or pages
