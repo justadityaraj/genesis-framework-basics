@@ -22,5 +22,5 @@ function themeprefix_featured_image() {
 		}
 	}
 }
-// www.wprumors.com - adityaraj.de
+// www.wprumors.com - adityaraj.com
 
