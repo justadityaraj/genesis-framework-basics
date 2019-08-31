@@ -1,6 +1,6 @@
 # Genesis framework basics
 
-One Paragraph of project description goes here
+The Genesis Framework empowers you to quickly and easily build incredible websites with WordPress CMS.
 
 ---
 
